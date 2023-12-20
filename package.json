@@ -1,7 +1,7 @@
 {
   "name": "TrapflyMetalogin",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "main": "index.html",
   "homepage": "https://biso420.github.io/TrapflyMetalogin/",
   "scripts": {
@@ -20,8 +20,8 @@
     "@babel/preset-env": "7.13.8"
   },
   "engines": {
-    "parcel": "2.x",
-    "node" : ">=16.0.0 <17.0.0"
+    "parcel": "2.x"
+   
   },
   "keywords": [
     "javascript",
